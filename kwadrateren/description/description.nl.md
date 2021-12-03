@@ -1,4 +1,5 @@
 Kwadrateren
+![echo cave](media/Echo_Caves.jpg){:height="50%" width="50%"}
 
 ### Input
 
