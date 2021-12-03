@@ -15,13 +15,6 @@
     "memory_limit": 10000000,
     "network_enabled": true
   },
-  "labels": [
-    "voorbeeld",
-    "kwadrateren"
-  ],
-  "contact": "Koen Govaerts <koen.govaerts@mosa-rt.be>",
-  "internals": {
-    "token": "_YJhcrXpwGKwd_nXYIDUnfAMwT237_QFYrm_rp-FiJyR2AJfpZ67Z3n4mc9s5ZUQ",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  "labels": ["voorbeeld", "kwadrateren"],
+  "contact": "Koen Govaerts <koen.govaerts@mosa-rt.be>"
 }
