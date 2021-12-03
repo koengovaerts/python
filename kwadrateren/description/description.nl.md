@@ -1,5 +1,8 @@
 Kwadrateren
-![x](media/x-square-827408.png){:height="50%" width="50%"}
+
+
+
+![x](media/x-square-827408.png{:height="50%" width="50%"})
 
 ### Input
 
