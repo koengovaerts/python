@@ -1,5 +1,5 @@
 Kwadrateren
-![echo cave](media/Echo_Caves.jpg){:height="50%" width="50%"}
+![echo cave](media/x-square-827408.png){:height="50%" width="50%"}
 
 ### Input
 
