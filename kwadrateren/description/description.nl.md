@@ -31,4 +31,4 @@ Het kwadraat van dit getal
 
       144
       
-<img src="media/Mosa-rt.jpg" alt="logo" width="150" height="150">
+<img src="media/Mosa-rt.jpg" alt="logo" width="150" height="150" style="float:right">
