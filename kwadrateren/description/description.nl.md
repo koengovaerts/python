@@ -16,8 +16,8 @@ Het kwadraat van dit getal
 <table>
   <caption> </caption>
   <tr>
-    <th>Getal</th>
-    <th>Kwadraat</th>
+    <th>x</th>
+    <th>x²</th>
   </tr>
   <tr>
     <td>3</td>
