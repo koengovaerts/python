@@ -31,4 +31,4 @@ Het kwadraat van dit getal
 **Output:**
 
       144
-![x](media/mosa-rt.jpg)
+![x](media/Mosa-rt.jpg)
