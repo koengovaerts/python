@@ -1,10 +1,8 @@
 <h1>Kwadrateren</h1> 
 <img src="media/Mosa-rt.jpg" alt="logo" width="100" height="100" style="float:right">
 
- <p align = “center”>
-<img src="media/x-square-827408.png" alt="kwadraat" width="200" height="200" > 
- </p>
-
+<img src="media/x-square-827408.png" alt="kwadraat" width="200" height="200" align = “left”> 
+ 
 ### Input
 
 Een geheel getal
