@@ -1,8 +1,7 @@
 Kwadrateren
 
 
-
-![](media/x-square-827408.png)
+<img src="media/x-square-827408.png" alt="kwadraat" width="200" height="200">
 
 ### Input
 
@@ -31,4 +30,4 @@ Het kwadraat van dit getal
 **Output:**
 
       144
-![](media/Mosa-rt.jpg)
+      <img src="media/Mosa-rt.jpg" alt="logo" width="150" height="150">
