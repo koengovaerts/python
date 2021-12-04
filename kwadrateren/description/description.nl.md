@@ -12,22 +12,7 @@ Een geheel getal
 
 Het kwadraat van dit getal
 
-### Voorbeeld 
-<table class="center">
-  <caption> </caption>
-  <tr>
-    <th>x</th>
-    <th>x²</th>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>-12</td>
-    <td>144</td>
-  </tr>
-</table>
+### Voorbeelden
 
 
 **Input:**
@@ -37,8 +22,6 @@ Het kwadraat van dit getal
 **Output:**
 
       9
-
-### Voorbeeld 2
 
 **Input:**
 
