@@ -12,20 +12,12 @@ Een geheel getal
 
 Het kwadraat van dit getal
 
-### Voorbeelden
+### Voorbeeld
 
 
 **Input:**
 
-      3
-
-**Output:**
-
-      9
-
-**Input:**
-
-      -12
+      12
 
 **Output:**
 
