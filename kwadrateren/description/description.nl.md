@@ -36,7 +36,7 @@ Het kwadraat van dit getal
 
 **Input:**
 
-      12
+      -12
 
 **Output:**
 
