@@ -2,7 +2,7 @@ Kwadrateren
 
 
 
-![x](media/x-square-827408.png)
+![](media/x-square-827408.png)
 
 ### Input
 
@@ -31,4 +31,4 @@ Het kwadraat van dit getal
 **Output:**
 
       144
-![x](media/Mosa-rt.jpg)
+![](media/Mosa-rt.jpg)
