@@ -4,12 +4,10 @@
 
 <img src="media/x-square-827408.png" alt="kwadraat" width="200" height="200" style="float:left">                         
 
-
-
-
-
-
-
+<p>
+<p>
+<p>
+<p>
 
 
 ### Input
