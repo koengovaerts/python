@@ -13,6 +13,22 @@ Een geheel getal
 Het kwadraat van dit getal
 
 ### Voorbeeld 
+<table>
+  <caption> </caption>
+  <tr>
+    <th>Getal</th>
+    <th>Kwadraat</th>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>-12</td>
+    <td>144</td>
+  </tr>
+</table>
+
 
 **Input:**
 
