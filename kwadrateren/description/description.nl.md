@@ -13,7 +13,7 @@ Een geheel getal
 Het kwadraat van dit getal
 
 ### Voorbeeld 
-<table>
+<table class="center">
   <caption> </caption>
   <tr>
     <th>x</th>
