@@ -12,7 +12,7 @@ Een geheel getal
 
 Het kwadraat van dit getal
 
-### Voorbeeld
+### Voorbeeld 1
 
 **Input:**
 
@@ -22,13 +22,22 @@ Het kwadraat van dit getal
 
       9
 
-### Example
+### Voorbeeld 2
 
 **Input:**
 
-      13
+      5
 
 **Output:**
 
-      169
+      25
 
+### Voorbeeld 3
+
+**Input:**
+
+      12
+
+**Output:**
+
+      144
