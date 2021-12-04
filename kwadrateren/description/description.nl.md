@@ -2,6 +2,10 @@
 <img src="media/Mosa-rt.jpg" alt="logo" width="100" height="100" style="float:right">
 
 <img src="media/x-square-827408.png" alt="kwadraat" width="200" height="200" align = left> 
+<p>
+ 
+ 
+ </p>
  
 ### Input
 
