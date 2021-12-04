@@ -30,4 +30,5 @@ Het kwadraat van dit getal
 **Output:**
 
       144
-      <img src="media/Mosa-rt.jpg" alt="logo" width="150" height="150">
+      
+<img src="media/Mosa-rt.jpg" alt="logo" width="150" height="150">
